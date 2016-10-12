@@ -1,2 +1,2 @@
-# BDZRecommender
-An Intellignet Recommendation System
+# DSRecommender - Data Stream Recommendor
+An Intellignet Recommendation System.
